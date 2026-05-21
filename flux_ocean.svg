@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ocean-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0077be;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000033;stop-opacity:1" />
+    </linearGradient>
+    <path id="wave" d="M0 100 C 150 50 250 150 400 100 C 550 50 650 150 800 100 L 800 200 L 0 200 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="10s" repeatCount="indefinite" />
+    </path>
+  </defs>
+  <rect width="800" height="200" fill="#000011" />
+  <use href="#wave" x="0" y="40" fill="url(#ocean-grad)" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="20s" repeatCount="indefinite" />
+  </use>
+  <use href="#wave" x="0" y="30" fill="url(#ocean-grad)" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="15s" repeatCount="indefinite" />
+  </use>
+  <use href="#wave" x="0" y="20" fill="url(#ocean-grad)" opacity="0.7">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="10s" repeatCount="indefinite" />
+  </use>
+  <use href="#wave" x="0" y="0" fill="url(#ocean-grad)" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="7s" repeatCount="indefinite" />
+  </use>
+  <text x="400" y="160" font-family="monospace" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">
+    🔱 THE SEVEN-LAYERED OCEAN 🔱
+  </text>
+</svg>
