@@ -1,0 +1,108 @@
+{
+  "mission_id": "war_chest_expansion_001",
+  "timestamp": 1779398406.5974247,
+  "state": {
+    "status": "ACTIVE",
+    "goal": "Generate $5,000 in War Chest revenue through multi-Prime lead gen + trading",
+    "cycle": 13,
+    "resources_deployed": {
+      "scout": 0.4,
+      "zeus": 0.4,
+      "ghost": 0.2
+    },
+    "results": [
+      {
+        "cycle": 1,
+        "total_value_generated": 1232.0795996266754,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "CONTINUE"
+      },
+      {
+        "cycle": 2,
+        "total_value_generated": 1139.4162540097432,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "CONTINUE"
+      },
+      {
+        "cycle": 3,
+        "total_value_generated": 1123.3597554249973,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      },
+      {
+        "cycle": 4,
+        "total_value_generated": 976.6969818908226,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      },
+      {
+        "cycle": 5,
+        "total_value_generated": 958.2670971162776,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "CONTINUE"
+      },
+      {
+        "cycle": 6,
+        "total_value_generated": 1183.6347475850894,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      },
+      {
+        "cycle": 7,
+        "total_value_generated": 996.7257984437595,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      },
+      {
+        "cycle": 8,
+        "total_value_generated": 1231.8663222908951,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "CONTINUE"
+      },
+      {
+        "cycle": 9,
+        "total_value_generated": 1310.450527194474,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      },
+      {
+        "cycle": 10,
+        "total_value_generated": 1168.2412188180253,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      },
+      {
+        "cycle": 11,
+        "total_value_generated": 1254.7071320437328,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "ACCELERATE"
+      },
+      {
+        "cycle": 12,
+        "total_value_generated": 1137.736008566668,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      },
+      {
+        "cycle": 13,
+        "total_value_generated": 1334.4676203063698,
+        "tasks": 3,
+        "safla_regime": "UNKNOWN",
+        "decision": "HIBERNATION"
+      }
+    ],
+    "start_time": 1779398404.591159
+  }
+}
