@@ -1,0 +1,15 @@
+{
+  "prime_name": "FluxPrime",
+  "role": "Orchestrator of the Pantheon",
+  "goal": "Autonomous expansion of the War Chest through multi-layer intelligence",
+  "layers": {
+    "L0": "AutoGPT",
+    "L1": "SAFLA-2.0",
+    "L2": "Flowstate",
+    "L3": "Deep-Signal",
+    "L4": "Task-Executor",
+    "L5": "GhostPrime",
+    "L6": "Second-Brain"
+  },
+  "status": "INITIATING_INTEGRATION_PHASE_1"
+}
