@@ -1,0 +1,19 @@
+{
+  "patterns": {},
+  "prime_competencies": {
+    "scout": {
+      "success_rate": 1.0,
+      "total_value": 0
+    },
+    "zeus": {
+      "success_rate": 1.0,
+      "total_value": 0
+    },
+    "ghost": {
+      "success_rate": 1.0,
+      "total_value": 0
+    }
+  },
+  "regime_history": [],
+  "last_updated": 1779398407.598075
+}
