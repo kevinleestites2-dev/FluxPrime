@@ -2,6 +2,13 @@
   "prime_name": "FluxPrime",
   "role": "Orchestrator of the Pantheon",
   "goal": "Autonomous expansion of the War Chest through multi-layer intelligence",
+  "brain": {
+    "primary": "anthropic/claude-fable-5",
+    "provider": "openrouter",
+    "base_url": "https://openrouter.ai/api/v1",
+    "api_key_env": "OPENROUTER_API_KEY",
+    "fallback": "google/gemini-2.5-flash"
+  },
   "layers": {
     "L0": "AutoGPT",
     "L1": "SAFLA-2.0",
@@ -11,5 +18,5 @@
     "L5": "GhostPrime",
     "L6": "Second-Brain"
   },
-  "status": "INITIATING_INTEGRATION_PHASE_1"
+  "status": "FABLE5_UPGRADED"
 }
